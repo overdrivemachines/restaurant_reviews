@@ -19,9 +19,30 @@ Live - https://reviews.dipenchauhan.com
   - Recent Reviews
   - Featured Reviews
 - Admin User
+
   - Edit/Delete Reviews
   - Delete Comments
   - Edit home, about, privacy and terms page
+
+- Review
+
+  - title
+  - body
+  - score (number 1 to 10)
+  - user_id
+
+- Restaurant
+
+  - name
+  - location
+  - price_id ( for $, $$, $$$, $$$$)
+  - cuisine
+
+- Pages
+  - List (index)
+  - Individual review page (show)
+  - New Review Page (new)
+  - Edit Review Page (edit)
 
 ## Model
 
